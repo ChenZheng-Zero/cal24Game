@@ -1,3 +1,6 @@
+/*
+author: Zheng Chen(ChenZheng-zero) and Jingyi Qing(charleyqjy)
+*/
 package game24;
 
 import java.util.EmptyStackException;
